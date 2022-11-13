@@ -13,6 +13,8 @@ jobs:
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      - name: Generate key
+        run: php artisan migrate
         with:
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_user }}
