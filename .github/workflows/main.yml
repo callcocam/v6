@@ -18,5 +18,5 @@ jobs:
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
           
-      - name: Generate key
-        run: php artisan key:generate
+      - name: atualizar migrations
+        run: php artisan migrate
