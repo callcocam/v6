@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ../
+        working-directory: ./
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
