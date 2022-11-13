@@ -10,7 +10,7 @@ export default defineConfig({
     build_path:'public/assets',
     plugins: [
         laravel({
-            buildDirectory: 'bundle',
+            // buildDirectory: 'bundle',
             input: [
                 'resources/css/app.css',
                 'resources/js/app.js'
