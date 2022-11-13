@@ -122,12 +122,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/callcocam/tall-acl.git",
-                "reference": "7727c561970f3810d5619cc7612ce602871add39"
+                "reference": "5fa1fa575786e88d7b8b689ff5b0cdf3ca1d1cf5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/callcocam/tall-acl/zipball/7727c561970f3810d5619cc7612ce602871add39",
-                "reference": "7727c561970f3810d5619cc7612ce602871add39",
+                "url": "https://api.github.com/repos/callcocam/tall-acl/zipball/5fa1fa575786e88d7b8b689ff5b0cdf3ca1d1cf5",
+                "reference": "5fa1fa575786e88d7b8b689ff5b0cdf3ca1d1cf5",
                 "shasum": ""
             },
             "require": {
@@ -167,7 +167,7 @@
                 "issues": "https://github.com/callcocam/tall-acl/issues",
                 "source": "https://github.com/callcocam/tall-acl/tree/main"
             },
-            "time": "2022-11-12T13:37:40+00:00"
+            "time": "2022-11-12T15:20:10+00:00"
         },
         {
             "name": "callcocam/tall-cms",
@@ -175,12 +175,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/callcocam/tall-cms.git",
-                "reference": "8a7b618405087b2db50662221c908dc1ff2256a4"
+                "reference": "3474bfac7e1349596ca2c21d5643c8cc9a87a5a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/callcocam/tall-cms/zipball/8a7b618405087b2db50662221c908dc1ff2256a4",
-                "reference": "8a7b618405087b2db50662221c908dc1ff2256a4",
+                "url": "https://api.github.com/repos/callcocam/tall-cms/zipball/3474bfac7e1349596ca2c21d5643c8cc9a87a5a0",
+                "reference": "3474bfac7e1349596ca2c21d5643c8cc9a87a5a0",
                 "shasum": ""
             },
             "require": {
@@ -221,7 +221,7 @@
                 "issues": "https://github.com/callcocam/tall-cms/issues",
                 "source": "https://github.com/callcocam/tall-cms/tree/main"
             },
-            "time": "2022-11-12T13:25:13+00:00"
+            "time": "2022-11-13T15:46:09+00:00"
         },
         {
             "name": "callcocam/tall-form",
@@ -490,12 +490,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/callcocam/tall-theme.git",
-                "reference": "acede30672e7740b4d8f6f71e7a6236ea8d919b1"
+                "reference": "90d5d48745f90458e8cbae5f219dc7f0456a5251"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/callcocam/tall-theme/zipball/acede30672e7740b4d8f6f71e7a6236ea8d919b1",
-                "reference": "acede30672e7740b4d8f6f71e7a6236ea8d919b1",
+                "url": "https://api.github.com/repos/callcocam/tall-theme/zipball/90d5d48745f90458e8cbae5f219dc7f0456a5251",
+                "reference": "90d5d48745f90458e8cbae5f219dc7f0456a5251",
                 "shasum": ""
             },
             "require": {
@@ -541,7 +541,7 @@
                 "issues": "https://github.com/callcocam/tall-theme/issues",
                 "source": "https://github.com/callcocam/tall-theme/tree/main"
             },
-            "time": "2022-11-12T14:51:21+00:00"
+            "time": "2022-11-13T15:45:35+00:00"
         },
         {
             "name": "dasprid/enum",
